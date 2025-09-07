@@ -1,0 +1,19 @@
+{
+  "name": "redocly-cli-plugin-remove-example-schemas",
+  "version": "1.0.2",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.cjs"
+  },
+  "scripts": {
+    "test": "echo 'test running'"
+  },
+  "keywords": [
+    "redocly",
+    "redocly-cli",
+    "redocly-plugin"
+  ],
+  "author": "Andrii Kyrylenko z9877969@gmail.com",
+  "license": "ISC",
+  "description": "A Redocly CLI plugin to remove schema examples from the documentation bundle."
+}

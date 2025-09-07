@@ -1,0 +1,4 @@
+# local dev files
+node_modules
+debug.log
+.DS_Store
