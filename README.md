@@ -7,9 +7,9 @@ This plugin operates on a structured directory of example files. Here is a sampl
 swagger/
 ├── components/
 │   └── examples/
-│       ├── inctance_1/
+│       ├── inctance1/
 │       │   └── inctance1_name.exm.yaml
-│       └── inctance_2/
+│       └── inctance2/
 │           └── inctance2_type.exm.yaml
 └── path/
     └── instance/
@@ -47,7 +47,7 @@ maxLength: 12
 example: some name
 ```
 
-Example: `swagger/components/examples/inctance_2/inctance2_type.exm.yaml`
+Example: `swagger/components/examples/inctance2/inctance2_type.exm.yaml`
 ```
 type: string
 enum:
